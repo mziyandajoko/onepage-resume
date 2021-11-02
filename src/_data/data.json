@@ -1,0 +1,29 @@
+  {
+    "details": [ 
+       { 
+        "id":"01", 
+        "name": "Mziyanda", 
+        "lastname": "Joko", 
+        "address": "Y512 sani Crescent" 
+     }  
+   ],
+
+   "workesperience": [ 
+      {
+         "id":"01", 
+        "company": "Superseed", 
+        "link": "https://superseedstudio.com/", 
+        "address": [
+           { 
+            "id":"01", 
+            "cape town": "Unit 1A, 31 Bell Crescent, Westlake Business Park, Westlake Cape Town"
+           },
+           {
+            "id":"02", 
+            "Sweden (T/A Wootby)": "Haga Kyrkogata 28, 411 23 Göteborg"
+           }
+        ] 
+      }
+
+   ]
+  }
