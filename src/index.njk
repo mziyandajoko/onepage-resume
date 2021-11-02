@@ -3,7 +3,7 @@ title: Mziyanda Joko Resume
 layout: "base.njk"
 ---
 <div class="container">
-    <h2>Adress details</h2>
+    <h2>Address details</h2>
     {% for details in data.details %}
         <p>name: {{details.name}}</p>
         <p>Lastname: {{details.lastname}}</p>
@@ -11,7 +11,7 @@ layout: "base.njk"
     {%endfor %}
 
     <h2>work experience</h2>
-    
+
     {% for workesperience in data.workesperience %}
         <p>Company: {{workesperience.company}}</p>
         <p>{% for address in workesperience.address %}
