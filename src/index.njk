@@ -11,9 +11,13 @@ layout: "base.njk"
     {%endfor %}
 
     <h2>work experience</h2>
+    
     {% for workesperience in data.workesperience %}
         <p>Company: {{workesperience.company}}</p>
-        <p> Adress: {{workesperience.address}}</p>
+        <p>{% for address in workesperience.address %}
+          <p>Cape Town: {{address.cape_town}}</p>
+          <p>Sweden (T/A Wootby): {{address.Sweden}}</p>
+        {% endfor %}</p>
         <p>Link: {{workesperience.link}}</p>
     {%endfor %}
 </div>

@@ -15,12 +15,8 @@
         "link": "https://superseedstudio.com/", 
         "address": [
            { 
-            "id":"01", 
-            "cape town": "Unit 1A, 31 Bell Crescent, Westlake Business Park, Westlake Cape Town"
-           },
-           {
-            "id":"02", 
-            "Sweden (T/A Wootby)": "Haga Kyrkogata 28, 411 23 Göteborg"
+            "cape_town": "Unit 1A, 31 Bell Crescent, Westlake Business Park, Westlake Cape Town",
+            "Sweden": "Haga Kyrkogata 28, 411 23 Göteborg"
            }
         ] 
       }
