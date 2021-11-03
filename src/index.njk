@@ -8,6 +8,13 @@ layout: "base.njk"
         <p>name: {{details.name}}</p>
         <p>Lastname: {{details.lastname}}</p>
         <p>Adress: {{details.address}}</p>
+        <p>email: {{details.email}}</p>
+        <p>Phone: {{details.Phone}}</p>
+        <p>role: {{details.role}}</p>
+       <p>LinkedIn:<a href="{{details.LinkedIn}}"> {{details.LinkedIn}}</a></p>
+       <p>Github: <a href="{{details.Github}}">  {{details.Github}}</a></p>
+        <p>LinkedIn: <a href="{{details.website}}"> {{details.website}}</a></p>
+       
     {%endfor %}
 
     <h2>work experience</h2>
@@ -20,4 +27,17 @@ layout: "base.njk"
         {% endfor %}</p>
         <p>Link: {{workesperience.link}}</p>
     {%endfor %}
+
+    <h2> Courses </h2>
+    {% include "./_includes/templates/courses.njk" %} 
+
+    <h2>Skills</h2>
+
+    {% for skill in data.skills %}
+    <p>Skills: {{skill.skillsList}}
+    {% endfor %}
+
+    
+
+
 </div>

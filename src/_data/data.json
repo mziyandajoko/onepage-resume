@@ -4,22 +4,101 @@
         "id":"01", 
         "name": "Mziyanda", 
         "lastname": "Joko", 
-        "address": "Y512 sani Crescent" 
+        "address": "Y512 Sani Crescent", 
+        "email": "joko@gmail.com",
+        "Phone": "062 420 4382",
+        "role": "Web Developer",
+        "LinkedIn": "https://www.linkedin.com/in/mziyanda-joko-72b40b134/",
+        "Github": "https://github.com/mziyandajoko",
+        "website": "http://mziyandajoko.co.za/"
      }  
    ],
-
    "workesperience": [ 
       {
          "id":"01", 
-        "company": "Superseed", 
+        "company": "Superseedstudio", 
         "link": "https://superseedstudio.com/", 
         "address": [
            { 
             "cape_town": "Unit 1A, 31 Bell Crescent, Westlake Business Park, Westlake Cape Town",
             "Sweden": "Haga Kyrkogata 28, 411 23 Göteborg"
            }
-        ] 
+        ],
+        "role":"Junior Web Developer",
+        "start_date":"",
+        "description":"" 
+      },
+      {
+         "id":"02", 
+         "company": "Culture Systems",
+         "address": "",
+         "role": "",
+         "start_date": "",
+         "description": ""
+      },
+      {
+         "id":"03", 
+         "company": "Blank Tech",
+         "link":"",
+         "address": "",
+         "start_date": "",
+         "role": "",
+         "description": ""
+      },
+      {
+         "id":"04", 
+         "company": "VMLY&R",
+         "link":"",
+         "address": "",
+         "start_date": "",
+         "role": "",
+         "description": ""
       }
-
-   ]
+   ],
+   "courses":[
+      {
+          "id":"01", 
+         "courseName": "Yes 4 Youth Digital skills",
+         "skills":"",
+         "start_date":"",
+         "discription":"",
+         "Link": "https://www.citi.org.za/"
+      },
+      {
+          "id":"02", 
+         "courseName":"AWS Architecture",
+         "company": "Devier",
+         "start_date": "",
+         "skills":"AWS Architecture, Python, Dynamo DB."
+      },
+      {
+          "id":"03", 
+         "courseName": "Advinced web developer",
+         "company": "Scrimba",
+         "skills": "React, Flex-box, css-grid, javascript",
+         "start_date": "",
+         "Link": "https://scrimba.com/allcourses"         
+      },
+      {
+          "id":"04", 
+         "courseName": "Flutter",
+         "company": "App Brewery",
+         "skills": "Flutter, Dart",
+         "start_date": "2 November 2019"         
+      },
+      {
+          "id":"05", 
+         "courseName": "Web developer",
+         "company": "CodeSpace",
+         "start_date": "July 2016 - December 2016",
+         "skills":"HTML, CSS,jQuery,PHP, MYSQL",
+         "Link": "https://www.codespace.co.za/"
+      }
+      
+   ],
+   "skills":[ {
+    "skillsList": "HTML, Javascript, Wordpress, React, CSS, JAMstack, NUNJUCKS, FlUTTER," 
+   }
+]
+   
   }
