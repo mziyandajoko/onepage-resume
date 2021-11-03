@@ -8,7 +8,8 @@
         "email": "joko@gmail.com",
         "Phone": "062 420 4382",
         "role": "Web Developer",
-        "LinkedIn": "https://www.linkedin.com/in/mziyanda-joko-72b40b134/",
+        "aboutMe": "Hi my name is Mziyanda Joko I am a front-end developer with 4 years of experience. I was brn in a small town call Noorport in Northen cape, I am currently living in Cape Town for +16. i am 27 years of age and I beggan passion for coding during my hight school phase, Since then I was sold and wantend to know more and the learning journey nver stpped ever since.I am also a sport person I play Cricket on weekend when i am not coding something awesome like this pdf generator.",
+        "linkedIn": "https://www.linkedin.com/in/mziyanda-joko-72b40b134/",
         "Github": "https://github.com/mziyandajoko",
         "website": "http://mziyandajoko.co.za/"
      }  
@@ -20,35 +21,35 @@
         "link": "https://superseedstudio.com/", 
         "address": [
            { 
-            "cape_town": "Unit 1A, 31 Bell Crescent, Westlake Business Park, Westlake Cape Town",
+            "cape_town": "Cape Town, Unit 1A, 31 Bell Crescent, Westlake Business Park, Westlake Cape Town",
             "Sweden": "Haga Kyrkogata 28, 411 23 Göteborg"
            }
         ],
         "role":"Junior Web Developer",
-        "start_date":"",
+        "start_date":"1 Feb 2021 - present",
         "description":"" 
       },
       {
          "id":"02", 
          "company": "Culture Systems",
          "address": "",
-         "role": "",
+         "role": "Flutter/Web Developer",
          "start_date": "",
          "description": ""
       },
       {
          "id":"03", 
          "company": "Blank Tech",
-         "link":"",
+         "link":"https://blanktech.co.za/",
          "address": "",
          "start_date": "",
-         "role": "",
+         "role": "Flutter Developer",
          "description": ""
       },
       {
          "id":"04", 
          "company": "VMLY&R",
-         "link":"",
+         "link":"https://www.vmlyr.com/",
          "address": "",
          "start_date": "",
          "role": "",
@@ -62,7 +63,7 @@
          "skills":"",
          "start_date":"",
          "discription":"",
-         "Link": "https://www.citi.org.za/"
+         "link": "https://www.citi.org.za/"
       },
       {
           "id":"02", 
@@ -77,7 +78,7 @@
          "company": "Scrimba",
          "skills": "React, Flex-box, css-grid, javascript",
          "start_date": "",
-         "Link": "https://scrimba.com/allcourses"         
+         "link": "https://scrimba.com/allcourses"         
       },
       {
           "id":"04", 
@@ -92,9 +93,8 @@
          "company": "CodeSpace",
          "start_date": "July 2016 - December 2016",
          "skills":"HTML, CSS,jQuery,PHP, MYSQL",
-         "Link": "https://www.codespace.co.za/"
+         "link": "https://www.codespace.co.za/"
       }
-      
    ],
    "skills":[ {
     "skillsList": "HTML, Javascript, Wordpress, React, CSS, JAMstack, NUNJUCKS, FlUTTER," 

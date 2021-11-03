@@ -1,7 +1,55 @@
+:root{
+    --dark-cyan-color: #0081a7;
+    --dark-desaturated-cyan-color: #00afb9;
+    --white-color: #FFF;
+    --secondry-color: #f07167;
+    --dark-yellow-color: #fdfcdc;
+    --off-peach-color: #fed9b7;
+    
+}
 body{
     margin: 0 auto;
     font-family: "Helvetica Neue",Helvetica;
     padding: 0px 20px;
     width: 900px;
     max-width: 100%;
+    background: var(--off-peach-color);
+    box-sizing: border-box;
+    line-height: 1.3em;
+}
+
+h1,h2 {
+    color: var(--secondry-color);
+}
+a{
+color: var(--dark-desaturated-cyan-colo);
+text-decoration: none;
+}
+
+/* PEROSNAL DETAILS */
+
+.personal_details{
+    background-color: var(--dark-yellow-color);
+    padding: 20px;
+    color: var(--dark-cyan-color);
+}
+
+/* WORK EXPERIANCE */
+.work_experiance{
+    padding: 20px;
+
+}
+.work_experiance:nth-of-type(even){
+    background-color:var(--dark-yellow-color);
+}
+
+.courses{
+    color: var(--dark-cyan-color);
+    padding: 20px;
+}
+.courses:nth-of-type(odd) {
+   background-color: var(--off-peach-color);
+}
+.courses:nth-of-type(even) {
+   background-color: var(--dark-yellow-color);
 }
