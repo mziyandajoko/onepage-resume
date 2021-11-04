@@ -27,9 +27,12 @@ text-decoration: none;
 color: var(--dark-cyan-color)
 }
 
+.sub_title{
+    font-size: 1.2rem
+}
 .header_topic{
         border-bottom: 2px solid var(--grey-color);
-        padding-bottom: 10px;
+        padding-bottom: 15px;
         font-weight: 400;
         font-size: 1.3rem;
 }
@@ -37,7 +40,7 @@ color: var(--dark-cyan-color)
 /* PEROSNAL DETAILS */
 
 .personal_details{
-    padding: 15px 0px;
+    padding: 3px 0px ;
     display: flex;
     flex-direction: row;
     margin-bottom: 30px;
@@ -58,6 +61,10 @@ color: var(--dark-cyan-color)
     
 }
 
+.work_experiance--flex{
+    display: flex;
+    justify-content: space-between
+}
 .work_experiance li{
     display: block;
     line-height: 1.5em;

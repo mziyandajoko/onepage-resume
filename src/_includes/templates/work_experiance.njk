@@ -1,9 +1,12 @@
 <div class="workesperience_section--content">
     {% for workesperience in data.workesperience %}
         <ul class="work_experiance">
+        
         <h4><a target="_blank" href="{{workesperience.link}}">{{workesperience.company}}</a></h4>
+        <div class="work_experiance--flex">
         <li> {{workesperience.role}}</li>
         <li> {{workesperience.start_date}}</li>
+        </div>
         <li> {{workesperience.address}}</li>
         </ul>
     {%endfor %}
