@@ -5,51 +5,70 @@
     --secondry-color: #f07167;
     --dark-yellow-color: #fdfcdc;
     --off-peach-color: #fed9b7;
+    --grey-color: #B1B4B6;
     
 }
 body{
     margin: 0 auto;
     font-family: "Helvetica Neue",Helvetica;
     padding: 0px 20px;
-    width: 900px;
+    width: 1024px;
     max-width: 100%;
-    background: var(--off-peach-color);
     box-sizing: border-box;
     line-height: 1.3em;
 }
 
-h1,h2 {
-    color: var(--secondry-color);
+h1{
+    font-size: 2.3rem
 }
 a{
 color: var(--dark-desaturated-cyan-colo);
 text-decoration: none;
+color: var(--dark-cyan-color)
+}
+
+.header_topic{
+        border-bottom: 2px solid var(--grey-color);
+        padding-bottom: 10px;
+        font-weight: 400;
+        font-size: 1.3rem;
 }
 
 /* PEROSNAL DETAILS */
 
 .personal_details{
-    background-color: var(--dark-yellow-color);
-    padding: 20px;
-    color: var(--dark-cyan-color);
+    padding: 15px 0px;
+    display: flex;
+    flex-direction: row;
+    margin-bottom: 30px;
+    
+}
+
+.personal_details li{
+    align-items: flex-start;
+    justify-content: flex-start;
+    display: inline;
+    padding: 10px;
+
 }
 
 /* WORK EXPERIANCE */
+.work_experience_section{
+
+    
+}
+
+.work_experiance li{
+    display: block;
+    line-height: 1.5em;
+    font-size: 14px;
+}
+
 .work_experiance{
-    padding: 20px;
-
-}
-.work_experiance:nth-of-type(even){
-    background-color:var(--dark-yellow-color);
+    padding: 5px 0px;
 }
 
-.courses{
-    color: var(--dark-cyan-color);
-    padding: 20px;
-}
-.courses:nth-of-type(odd) {
-   background-color: var(--off-peach-color);
-}
-.courses:nth-of-type(even) {
-   background-color: var(--dark-yellow-color);
+
+.courses{   
+    padding: 5px;
 }

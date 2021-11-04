@@ -1,50 +1,27 @@
 ---
-title: Mziyanda Joko Resume
+title: Mziyanda Joko
 layout: "base.njk"
 ---
-<div class="container">
+<section class="container">
+<div class="header">
     <h1>{{title}}</h1>
-    {% for details in data.details %}
-    <div class="personal_details">
-        <p>name: {{details.name}}</p>
-        <p>Lastname: {{details.lastname}}</p>
-        <p>Adress: {{details.address}}</p>
-        <p>email: {{details.email}}</p>
-        <p>Phone: {{details.Phone}}</p>
-        <p>role: {{details.role}}</p>
-        <p> About me: {{details.aboutMe}}</p>
-       <p>Github: <a target="_blank" href="{{details.Github}}">  {{details.Github}}</a></p>
-        <p>LinkedIn: <a target="_blank" href="{{details.website}}"> {{details.website}}</a></p>
-        </div>
-       
-    {%endfor %}
+    <h2>Junior Web Developer</h2>
+        {% include "./_includes/templates/header.njk" %} 
+</div>
 
-    <h2>work experience</h2>
-    <div class="">
-    {% for workesperience in data.workesperience %}
-        <div class="work_experiance">
-        <p>Company: {{workesperience.company}}</p>
-        <p>Company: {{workesperience.role}}</p>
-        <p>Company: {{workesperience.start_date}}</p>
-        <p>{% for address in workesperience.address %}
-          <p>Address: {{address.cape_town}}</p>
-          <p>Sweden (T/A Wootby): {{address.Sweden}}</p>
-        {% endfor %}</p>
-        <p>Link: <a target="_blank" href="{{details.workesperience.link}}"> {{workesperience.link}}</a></p>
-        </div>
-    {%endfor %}
+    <div class="workesperience_section">
+        <h2 class="header_topic">Work Experience</h2>
+        {% include "./_includes/templates/work_experiance.njk" %} 
     </div>
 
-    <h2> Courses </h2>
+    <h2 class="header_topic"> Courses </h2>
     {% include "./_includes/templates/courses.njk" %} 
-
-    <h2>Skills</h2>
-
-    {% for skill in data.skills %}
-    <p>Skills: {{skill.skillsList}}
-    {% endfor %}
+<div class="skills">
+    <h2 class="header_topic">Skills</h2>
+    {% include "./_includes/templates/skills.njk" %} 
+</div>
 
     
 
 
-</div>
+</section>

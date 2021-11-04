@@ -1,0 +1,12 @@
+<div class="header_content">
+{% for details in data.details %}
+    <ul class="personal_details">
+        <li>{{details.address}}</li>
+        <li>{{details.email}}</li>
+        <li>{{details.phone}}</li>
+        {# <li>{{details.aboutMe}}</li> #}
+       <li><a target="_blank" href="{{details.Github}}">  {{details.Github}}</a></li>
+        <li><a target="_blank" href="{{details.website}}"> {{details.website}}</a></p>
+        </ul>     
+    {%endfor %}
+</div>
