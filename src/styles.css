@@ -29,6 +29,10 @@ text-decoration: none;
 color: var(--dark-cyan-color)
 }
 
+.container{
+    
+}
+
 .sub_title{
     font-size: 1.2rem
 }
