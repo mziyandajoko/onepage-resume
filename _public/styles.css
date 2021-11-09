@@ -29,6 +29,14 @@ text-decoration: none;
 color: var(--dark-cyan-color)
 }
 
+.container{
+    border: 1px solid var(--grey-color);
+    padding: 0px 15px;
+    box-shadow: 0 1px 5px rgba(0,0,0,0.25), 0 0 50px rgba(0,0,0,0.1) inset;
+
+
+}
+
 .sub_title{
     font-size: 1.2rem
 }

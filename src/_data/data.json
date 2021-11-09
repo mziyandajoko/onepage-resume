@@ -37,7 +37,8 @@
          "id":"03", 
          "company": "Blank Tech",
          "link":"https://blanktech.co.za/",
-         "address": "",
+         "address": "129 Main Rd, Observatory, Cape Town, 7935",
+         "tell": "067 648 6553",
          "start_date": "Jul 2020 - Nov 2020",
          "role": "Flutter Developer",
          "description": "Developing Ayaamah beauty App with Flutter and dart, I was responsible for develoo new features and dicributing app for user reviews and bugfixing.",
@@ -45,11 +46,12 @@
       },
       {
          "id":"04", 
-         "company": "VMLY&R",
+         "company": "VMLY&R CAPE TOWN",
          "link":"https://www.vmlyr.com/",
-         "address": "",
-         "start_date": "",
-         "role": "",
+         "address": "G12 Old Castle Brewery Complex 6 Beach Road Woodstock, 7925 South Africa",
+         "tell": "+27.021.434.4375",
+         "start_date": "Feb 2017 - Apr 2018",
+         "role": "Intern Web Developer",
          "description": "",
          "tools": "HTML, Bootstrap, Javascript, less,NUNJUCKS Framework, Dust Framework and Github,"
       }
