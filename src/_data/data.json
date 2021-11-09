@@ -21,7 +21,7 @@
         "link": "https://superseedstudio.com/", 
         "address": "Cape Town, Unit 1A, 31 Bell Crescent, Westlake Business Park, Westlake Cape Town",
         "role":"Junior Web Developer",
-        "start_date":"1 Feb 2021 - present",
+        "start_date":"Feb 2021 - present",
         "description":"" 
       },
       {
@@ -29,17 +29,19 @@
          "company": "Culture Systems",
          "address": "",
          "role": "Flutter/Web Developer",
-         "start_date": "",
-         "description": ""
+         "start_date": "Mar 2019 - Feb 2020",
+         "description": "Worked as freelancer devloper for more than two projects. I was responsible for creating front-end services for web development and hybrid app development.",
+         "tools": "HTML, Javascript, less, Flutter framework, Dart, Trello cards, Bitbucket,"
       },
       {
          "id":"03", 
          "company": "Blank Tech",
          "link":"https://blanktech.co.za/",
          "address": "",
-         "start_date": "",
+         "start_date": "Jul 2020 - Nov 2020",
          "role": "Flutter Developer",
-         "description": ""
+         "description": "Developing Ayaamah beauty App with Flutter and dart, I was responsible for develoo new features and dicributing app for user reviews and bugfixing",
+         "tools": "Flutter framework, Dart, Gitlab, Trello cards"
       },
       {
          "id":"04", 
@@ -48,27 +50,28 @@
          "address": "",
          "start_date": "",
          "role": "",
-         "description": ""
+         "description": "",
+         "tools": "HTML, Bootstrap, Javascript, less,NUNJUCKS Framework, Dust Framework and Github,"
       }
    ],
    "courses":[
       {
-          "id":"01", 
+         "id":"01", 
          "courseName": "Yes 4 Youth Digital skills",
-         "skills":"",
-         "start_date":"",
+         "skills":"Google Digital skills",
+         "start_date":"December 2020",
          "discription":"",
          "link": "https://www.citi.org.za/"
       },
       {
-          "id":"02", 
+         "id":"02", 
          "courseName":"AWS Architecture",
          "company": "Devier",
          "start_date": "",
          "skills":"AWS Architecture, Python, Dynamo DB."
       },
       {
-          "id":"03", 
+         "id":"03", 
          "courseName": "Advinced web developer",
          "company": "Scrimba",
          "skills": "React, Flex-box, css-grid, javascript",
@@ -77,15 +80,15 @@
 
       },
       {
-          "id":"04", 
+         "id":"04", 
          "courseName": "Flutter",
          "company": "App Brewery",
          "skills": "Flutter, Dart",
-         "start_date": "2 November 2019",
+         "start_date": "November 2019",
          "link": "https://www.appbrewery.co/"      
       },
       {
-          "id":"05", 
+         "id":"05", 
          "courseName": "Web developer",
          "company": "CodeSpace",
          "start_date": "July 2016 - December 2016",
@@ -97,5 +100,4 @@
     "skillsList": "HTML, Javascript, Wordpress, React, CSS, JAMstack, NUNJUCKS, FlUTTER, Git" 
    }
 ]
-   
-  }
+}

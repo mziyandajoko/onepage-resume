@@ -2,9 +2,9 @@
   {% for course in data.courses %}
   <div class="courses">
     <p>{{course.courseName}}</p>
-    <p>{{course.skills}}</p>
+    <p><i class="fa fa-graduation-cap"></i>{{course.skills}}</p>
     <p>{{course.discription}}</p>
-    <p>{{course.start_date}}</p>
+    <p><i class="fa fa-calendar-alt"></i>{{course.start_date}}</p>
     <p><a target="_blank" href="{{course.link}}"> {{course.company}}</a></p>
 </div>
   {% endfor %} 
