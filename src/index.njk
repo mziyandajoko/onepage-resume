@@ -10,12 +10,11 @@ layout: "base.njk"
         {% for details in data.details %}
         <p>{{details.aboutMe}}</p>
         {% endfor %}
-</div>
+    </div>
     <div class="workesperience_section">
         <h2 class="header_topic">Work Experience</h2>
         {% include "./_includes/templates/work_experiance.njk" %} 
     </div>
-
     <h2 class="header_topic"> Courses </h2>
     {% include "./_includes/templates/courses.njk" %} 
     <div class="skills">
