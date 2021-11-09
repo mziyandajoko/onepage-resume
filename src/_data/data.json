@@ -8,7 +8,7 @@
         "email": "joko@gmail.com",
         "phone": "062 420 4382",
         "role": "Web Developer",
-        "aboutMe": "Hi my name is Mziyanda Joko I am a front-end developer with 4 years of experience. I was brn in a small town call Noupoort in Northen cape, I am currently living in Cape Town for +16. i am 27 years of age and I beggan passion for coding during my hight school phase, Since then I was sold and wantend to know more and the learning journey nver stpped ever since.I am also a sport person I play Cricket on weekend when i am not coding something awesome like this pdf generator.",
+        "bio": "Hi my name is Mziyanda Joko I am a front-end developer with 4 years of experience. I was born in a small town call Noupoort in Northen cape, I am currently living in Cape Town for +16. i am 27 years of age and I beggan passion for coding during my hight school phase, Since then I was sold and wantend to know more and the learning journey nver stpped ever since.I am also a sport person I play Cricket on weekend when i am not coding something awesome like this pdf generator.",
         "linkedIn": "https://www.linkedin.com/in/mziyanda-joko-72b40b134/",
         "Github": "https://github.com/mziyandajoko",
         "website": "http://mziyandajoko.co.za/"
@@ -40,7 +40,7 @@
          "address": "",
          "start_date": "Jul 2020 - Nov 2020",
          "role": "Flutter Developer",
-         "description": "Developing Ayaamah beauty App with Flutter and dart, I was responsible for develoo new features and dicributing app for user reviews and bugfixing",
+         "description": "Developing Ayaamah beauty App with Flutter and dart, I was responsible for develoo new features and dicributing app for user reviews and bugfixing.",
          "tools": "Flutter framework, Dart, Gitlab, Trello cards"
       },
       {
@@ -58,6 +58,7 @@
       {
          "id":"01", 
          "courseName": "Yes 4 Youth Digital skills",
+         "company": "Capaciti",
          "skills":"Google Digital skills",
          "start_date":"December 2020",
          "discription":"",
@@ -77,7 +78,6 @@
          "skills": "React, Flex-box, css-grid, javascript",
          "start_date": "",
          "link": "https://scrimba.com/allcourses"
-
       },
       {
          "id":"04", 
@@ -97,7 +97,7 @@
       }
    ],
    "skills":[ {
-    "skillsList": "HTML, Javascript, Wordpress, React, CSS, JAMstack, NUNJUCKS, FlUTTER, Git" 
+    "skillsList": "HTML, Javascript, Wordpress, React, CSS, JAMstack, NUNJUCKS, FLUTTER, Git, Bitbucket, Dust" 
    }
 ]
 }

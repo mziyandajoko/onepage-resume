@@ -77,7 +77,21 @@ color: var(--dark-cyan-color)
     padding: 5px 0px;
 }
 
+.workesperience_section--role{
+    font-weight: 700;
+}
+
 
 .courses{   
     padding: 5px;
 }
+
+/* COURSES */
+
+
+/* SKILLS */
+
+.skills li{
+    display: flex;
+}
+
