@@ -1,11 +1,11 @@
 <div class="header_content">
 {% for details in data.details %}
     <ul class="personal_details">
-        <li>{{details.address}}</li>
-        <li>{{details.email}}</li>
-        <li>{{details.phone}}</li>
-       <li><a target="_blank" href="{{details.Github}}"><i class="fab fa-github"> </i>Github</a></li>
-        <li><a target="_blank" href="{{details.website}}"><i class="fa fa-external-link" aria-hidden="true"></i> Personal Website</a></p>
+        <li><i class="fa fa-map-marker"></i>{{details.address}}</li>
+        <li><i class="fa fa-at"></i>{{details.email}}</li>
+        <li><i class="fa fa-phone"></i>{{details.phone}}</li>
+       <li><a target="_blank" href="{{details.Github}}"><i class="fa fa-github"></i>Github</a></li>
+        <li><a target="_blank" href="{{details.website}}"><i class="fa fa-external-link" aria-hidden="true"></i>Personal Website</a></p>
         </ul>     
     {%endfor %}
 </div>
