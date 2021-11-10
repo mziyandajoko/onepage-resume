@@ -28,11 +28,12 @@
       {
          "id":"02", 
          "company": "Culture Systems",
-         "address": "",
+         "address": "Observatory, Cape Town",
+         "tell": "082 082 7179",
          "role": "Flutter/Web Developer",
          "start_date": "Mar 2019 - Feb 2020",
          "description": "Worked as freelancer devloper for more than two projects. I was responsible for creating front-end services for web development and hybrid app development.",
-         "tools": "HTML, Javascript, less, Flutter framework, Dart, Trello cards, Bitbucket,"
+         "tools": "HTML, Javascript, less, Flutter framework, Dart, Trello cards, Bitbucket and Jira"
       },
       {
          "id":"03", 
@@ -53,8 +54,8 @@
          "tell": "+27.021.434.4375",
          "start_date": "Feb 2017 - Apr 2018",
          "role": "Intern Web Developer",
-         "description": "",
-         "tools": "HTML, Bootstrap, Javascript, less,NUNJUCKS Framework, Dust Framework and Github,"
+         "description": "Worked as an intern web developer under their big client they had at the time Old mutual. I was responsible for develoo new features on the internal servive they using and test for functionality and bugfixing.",
+         "tools": "HTML, Bootstrap, Javascript, less,NUNJUCKS Framework, Dust Framework and Github"
       }
    ],
    "courses":[
@@ -71,7 +72,7 @@
          "id":"02", 
          "courseName":"AWS Architecture",
          "company": "Devier",
-         "start_date": "",
+         "start_date": "Nov 2020 - Jan 2021",
          "skills":"AWS Architecture, Python, Dynamo DB."
       },
       {
@@ -79,7 +80,7 @@
          "courseName": "Advinced web developer",
          "company": "Scrimba",
          "skills": "React, Flex-box, css-grid, javascript",
-         "start_date": "",
+         "start_date": "continuous learning",
          "link": "https://scrimba.com/allcourses"
       },
       {
