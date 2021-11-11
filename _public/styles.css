@@ -39,11 +39,16 @@ color: var(--dark-cyan-color)
     font-size: 1.2rem
 }
 .header_topic{
+    border-bottom: 2px solid var(--grey-color);
+    padding: 15px 0px;
+    font-weight: 400;
+    font-size: 1.3rem;
+}
+@media screen and (max-width: 768px){
+    .header_topic{
         border-top: 2px solid var(--grey-color);
-        border-bottom: 2px solid var(--grey-color);
-        padding: 15px 0px;
-        font-weight: 400;
-        font-size: 1.3rem;
+    }
+
 }
 
 /* PEROSNAL DETAILS */
@@ -56,11 +61,6 @@ color: var(--dark-cyan-color)
     margin-bottom: 30px;
 }
 
-/* @media screen(max-width: ) {
-    .personal_details{
-        flex-direction: column;
-    }
-} */
 
 .personal_details li{
     align-items: flex-start;
@@ -70,11 +70,30 @@ color: var(--dark-cyan-color)
 
 }
 
-/* WORK EXPERIANCE */
-.work_experience_section{
+.main_content{
+    display: grid;
+    grid-template-columns: 1fr 50%;
+    grid-gap: 20px;
+}
+/* MOBILE */
+@media screen and (max-width: 768px){
+    .main_content{
+        grid-template-columns: 1fr;
+    }
+
+}
 
     
+    
+
+/* WORK EXPERIANCE */
+
+
+
+.work_experience_section{
+    
 }
+
 
 .work_experiance--flex{
     display: flex;
