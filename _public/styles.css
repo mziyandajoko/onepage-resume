@@ -74,6 +74,7 @@ color: var(--dark-cyan-color)
     display: grid;
     grid-template-columns: 1fr 50%;
     grid-gap: 40px;
+    line-height: 1.5;
 }
 /* MOBILE */
 @media screen and (max-width: 768px){
@@ -119,3 +120,8 @@ color: var(--dark-cyan-color)
     display: flex;
 }
 
+.skills ul{
+    display: flex;
+    margin-left: 0px;
+    padding-left: 0px;
+}
