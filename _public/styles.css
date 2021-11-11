@@ -73,7 +73,7 @@ color: var(--dark-cyan-color)
 .main_content{
     display: grid;
     grid-template-columns: 1fr 50%;
-    grid-gap: 20px;
+    grid-gap: 40px;
 }
 /* MOBILE */
 @media screen and (max-width: 768px){
@@ -83,17 +83,9 @@ color: var(--dark-cyan-color)
 
 }
 
-    
-    
+  
 
 /* WORK EXPERIANCE */
-
-
-
-.work_experience_section{
-    
-}
-
 
 .work_experiance--flex{
     display: flex;
