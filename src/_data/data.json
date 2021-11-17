@@ -5,7 +5,7 @@
         "name": "Mziyanda", 
         "lastname": "Joko", 
         "address": "Y512 Sani Crescent", 
-        "email": "joko@gmail.com",
+        "email": "joko.mzee@gmail.com",
         "phone": "062 420 4382",
         "role": "Web Developer",
         "bio": "Hi my name is Mziyanda Joko I am a front-end developer with 4 years of experience. I was born in a small town call Noupoort in Northen cape, I am currently living in Cape Town for +16. i am 27 years of age and I beggan passion for coding during my hight school phase, Since then I was sold and wantend to know more and the learning journey nver stpped ever since.I am also a sport person I play Cricket on weekend when i am not coding something awesome like this pdf generator.",
@@ -101,7 +101,7 @@
       }
    ],
    "skills":[ {
-    "skillsList": "HTML, Javascript, Wordpress, React, CSS, JAMstack, NUNJUCKS, FLUTTER, Git, Node, Bitbucket, Dust, Jira" 
+    "skillsList": "HTML, Javascript, Wordpress, React, CSS, JAMstack, NUNJUCKS, FLUTTER, Git, Node, eleventy, expressjs, Bitbucket, Dust, Jira" 
    }
 ]
 }
