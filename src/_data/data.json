@@ -73,7 +73,8 @@
          "courseName":"AWS Architecture",
          "company": "Devier",
          "start_date": "Nov 2020 - Jan 2021",
-         "skills":"AWS Architecture, Python, Dynamo DB."
+         "skills":"AWS Architecture, Python, Dynamo DB.",
+         "link": "https://recruitment.deviare.co.za/"
       },
       {
          "id":"03", 
