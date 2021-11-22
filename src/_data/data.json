@@ -8,7 +8,7 @@
         "email": "joko.mzee@gmail.com",
         "phone": "062 420 4382",
         "role": "Web Developer",
-        "bio": "Hi my name is Mziyanda Joko I am a front-end developer with 4 years of experience. I was born in a small town call Noupoort in Northen cape, I am currently living in Cape Town for +16. i am 27 years of age and I beggan passion for coding during my hight school phase, Since then I was sold and wantend to know more and the learning journey nver stpped ever since.I am also a sport person I play Cricket on weekend when i am not coding something awesome like this pdf generator.",
+        "bio": "Hi, my name is Mziyanda Joko I am a front-end developer with 4 years of experience. I was born in a small town called Noupoort in Northen cape, I am currently living in Cape Town for +16. I am 27 years of age and I began a passion for coding during my high school phase, Since then I was sold and wanted to know more and the learning journey never stopped ever since. I am also a sports person I play Cricket on weekends when i am not coding something awesome like this pdf generator.",
         "linkedIn": "https://www.linkedin.com/in/mziyanda-joko-72b40b134/",
         "Github": "https://github.com/mziyandajoko",
         "website": "http://mziyandajoko.co.za/"
@@ -23,7 +23,7 @@
         "role":"Junior Web Developer",
         "start_date":"Feb 2021 - present",
         "description":"Working as a front-end web developer developing responsive websites, doing updates and also website maintenance.",
-        "tools": "Wordpress, Elementor editor and other plugins for different purposes like toolset for dynamic contnent" 
+        "tools": "WordPress, Elementor editor and other plugins for different purposes like toolset for dynamic content" 
       },
       {
          "id":"02", 
@@ -32,8 +32,8 @@
          "tell": "082 082 7179",
          "role": "Flutter/Web Developer",
          "start_date": "Mar 2019 - Feb 2020",
-         "description": "Worked as freelancer devloper for more than two projects. I was responsible for creating front-end services for web development and hybrid app development.",
-         "tools": "HTML, Javascript, less, Flutter framework, Dart, Trello cards, Bitbucket and Jira"
+         "description": "Worked as a freelancer developer for more than two projects. I was responsible for creating front-end services for web development and hybrid app development.",
+         "tools": "HTML, Javascript, less, Flutter framework, Dart, Trello boards, Bitbucket and Jira"
       },
       {
          "id":"03", 
@@ -43,8 +43,8 @@
          "tell": "067 648 6553",
          "start_date": "Jul 2020 - Nov 2020",
          "role": "Flutter Developer",
-         "description": "Developing Ayaamah beauty App with Flutter and dart, I was responsible for develoo new features and dicributing app for user reviews and bugfixing.",
-         "tools": "Flutter framework, Dart, Gitlab, Trello cards"
+         "description": "Developing Ayaamah beauty App with Flutter and dart, I was responsible for developing new features and distributing the app for user reviews and bug fixing.",
+         "tools": "Flutter framework, Dart, Gitlab, Trello boards"
       },
       {
          "id":"04", 
@@ -54,7 +54,7 @@
          "tell": "+27.021.434.4375",
          "start_date": "Feb 2017 - Apr 2018",
          "role": "Intern Web Developer",
-         "description": "Worked as an intern web developer under their big client they had at the time Old mutual. I was responsible for develoo new features on the internal servive they using and test for functionality and bugfixing.",
+         "description": "Worked as an intern web developer under their big client they had at the time Old mutual. I was responsible for developing new features on the internal service they using and test for functionality and bug fixing.",
          "tools": "HTML, Bootstrap, Javascript, less,NUNJUCKS Framework, Dust Framework and Github"
       }
    ],
@@ -77,9 +77,9 @@
       },
       {
          "id":"03", 
-         "courseName": "Advinced web developer",
+         "courseName": "Advanced web development",
          "company": "Scrimba",
-         "skills": "React, Flex-box, css-grid, javascript",
+         "skills": "React, Flex-box, CSS-grid, javascript",
          "start_date": "continuous learning",
          "link": "https://scrimba.com/allcourses"
       },
@@ -101,7 +101,7 @@
       }
    ],
    "skills":[ {
-    "skillsList": "HTML, Javascript, Wordpress, React, CSS, JAMstack, NUNJUCKS, FLUTTER, Git, Node, eleventy, expressjs, Bitbucket, Dust, Jira" 
+    "skillsList": "HTML, Javascript, WordPress, React, CSS, JAMstack, NUNJUCKS, FLUTTER, Git, Node, Eleventy, Express.js, Bitbucket, Dust, Jira" 
    }
 ]
 }
