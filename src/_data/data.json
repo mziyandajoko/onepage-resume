@@ -81,7 +81,7 @@
          "id":"03", 
          "courseName": "Advanced web development",
          "company": "Scrimba",
-         "skills": "React, Flex-box, CSS-grid, javascript",
+         "skills": "React,Vue, Flex-box, CSS-grid, javascript",
          "start_date": "continuous learning",
          "link": "https://scrimba.com/allcourses"
       },
