@@ -74,7 +74,7 @@
          "courseName":"AWS Architecture",
          "company": "Devier",
          "start_date": "Nov 2020 - Jan 2021",
-         "skills":"AWS Architecture, Python, Dynamo DB.",
+         "skills":"AWS cloud Architecture, Python, Dynamo DB.",
          "link": "https://recruitment.deviare.co.za/"
       },
       {
@@ -103,7 +103,7 @@
       }
    ],
    "skills":[ {
-    "skillsList": "HTML, Javascript, WordPress, React, CSS, JAMstack, NUNJUCKS, FLUTTER, Git, Node, Eleventy, Express.js, Bitbucket, Dust, Jira" 
+    "skillsList": "HTML, Javascript, WordPress, React,Vue, CSS, JAMstack, NUNJUCKS, FLUTTER, Git, Node, Eleventy, Express.js, Bitbucket, Dust, Jira, AWS cloud Architecture" 
    }
 ]
 }
